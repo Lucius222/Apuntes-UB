@@ -1,4 +1,12 @@
 Instalar: 
+
 - GIT (Necesito GITBASH) 
 
 - NODE.JS (4.4.7 el recomendado) La bajo e instala NPM. 
+
+- IONIC con la lista de la pagina:
+ http://ionicframework.com/getting-started/
+
+    - Sublimetext/ NOtepad ++ / ATOM - Visual code.
+
+- SDK de android. (kit de desarroyo para esa plataforma)
